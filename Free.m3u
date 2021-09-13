@@ -1,93 +1,97 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="CONTRACT", ## 01912410410 ##
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200059
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096924
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3Wtb7is.jpg" group-title="BANGLA", ATN BANGLA
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200060
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cZVRoNH.jpg" group-title="BANGLA", Bangla TV
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200061
-#EXTINF: -1 tvg-logo="https://i.imgur.com/cJFR5VS.png" group-title="BANGLA", Bangla Vision
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200062
-#EXTINF: -1 tvg-logo="https://i.imgur.com/LcXhIpk.jpg" group-title="BANGLA", Channel I
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200063
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gNKxlgj.jpg" group-title="BANGLA", DBC NEWS
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200064
-#EXTINF: -1 tvg-logo="https://i.imgur.com/WIR6O8g.png" group-title="BANGLA", JAMUNA TV
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200065
-#EXTINF: -1 tvg-logo="https://i.imgur.com/e344Py8.png" group-title="BANGLA", MY TV
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200066
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xp82fMN.jpg" group-title="BANGLA", Movie Bangla
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200067
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096927
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DdnRt0w.jpg" group-title="BANGLA", ATN NEWS
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096930
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1GwELpO.jpg" group-title="BANGLA", Masranga Tv
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096932
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB6qXdV6i26Ba8jnqAItDB_KvMvLnLBANkA&usqp=CAU" group-title="BANGLA", Star BD
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200068
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PrFIRbG.jpg" group-title="BANGLA", NANTV
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200069
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096935
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SzrHOta.jpg" group-title="BANGLA", Bangla Vision
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096937
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cZVRoNH.jpg" group-title="BANGLA", Bangla TV
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096940
+#EXTINF: -1 tvg-logo="https://i.imgur.com/LcXhIpk.jpg" group-title="BANGLA", CHANNEL I
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096942
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg3mgZQ.jpg" group-title="INDIAN BANGLA", Star Jalsha
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096946
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uF7ChWS.jpg" group-title="INDIAN BANGLA", Colors Bangla
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200071
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096948
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PAWuYPm.jpg" group-title="INDIAN BANGLA", Enter 10 Bangla
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200072
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096950
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="INDIAN BANGLA", Zee Bangla Cinema
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200073
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096952
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="HINDI ENTERTAINMENT", Star Plus
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200074
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096955
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RLdDBZl.jpg" group-title="HINDI ENTERTAINMENT", Zee TV
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200075
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096957
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iGjG8wn.png" group-title="HINDI ENTERTAINMENT", SONY SAB
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096960
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vtaTw3N.png" group-title="HINDI MOVIES", UTV ACTION
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096963
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XZ7c3TH.jpg" group-title="HINDI MOVIES", And Pictures
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096966
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yijvpU3.jpg" group-title="HINDI MOVIES", Rishtey Cineplex
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200078
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096968
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="HINDI MOVIES", BFlix Movies
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200079
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096971
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5eJJpFw.png" group-title="HINDI MOVIES", MAHA MOVIE
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200080
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096973
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg" group-title="HINDI MOVIES", WoW CINEMA
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200081
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096975
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kBOiQBW.jpg" group-title="HINDI MOVIES", BOX CINEMA
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200082
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096977
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CthMRSv.jpg" group-title="ENGLISH MOVIES", 24/7-MOVIES
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200083
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096981
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="ENGLISH MOVIES", HBO
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200084
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096983
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4iFkaFd.jpg" group-title="ENGLISH MOVIES", & PRIVE
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200085
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096985
 #EXTINF: -1 tvg-logo="https://i.imgur.com/VFn2BUB.jpg" group-title="ENGLISH MOVIES", & Flix
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200086
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096987
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1Vz3JaU.jpg" group-title="ENGLISH MOVIES", Zee Cafe
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200087
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096990
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vjij72B.jpg" group-title="INFOTAINMENT & LIFESTYLE", National Geographic
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200088
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096993
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hGF2kL5.png" group-title="INFOTAINMENT & LIFESTYLE", BBC EARTH
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200089
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096996
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ij7U2FZ.jpg" group-title="INFOTAINMENT & LIFESTYLE", Love Nature
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200090
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379096998
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vVRmojf.png" group-title="INFOTAINMENT & LIFESTYLE", HISTORY
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097001
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Wow Kids
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200092
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097004
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WfXz0qB.jpg" group-title="KIDS-CARTOONS", Halow Kids
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200093
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097007
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="KIDS-CARTOONS", Nick Jr.
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200094
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097009
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tEL0CyS.jpg" group-title="KIDS-CARTOONS", Tom & Jerry
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200095
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097012
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4omR3Eg.jpg" group-title="KIDS-CARTOONS", Mr. Bean Show
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200096
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097014
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PeOx9c3.jpg" group-title="SPORTS", Sony SIX
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200097
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097018
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PeOx9c3.jpg" group-title="SPORTS", Sony Ten 3
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200098
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097020
 #EXTINF: -1 tvg-logo="https://i.imgur.com/15wWQoe.jpg" group-title="SPORTS", Star Sports 2
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200099
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097023
 #EXTINF: -1 tvg-logo="https://i.imgur.com/15wWQoe.jpg" group-title="SPORTS", Star Sports 3
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200100
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097025
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PeOx9c3.jpg" group-title="SPORTS", MAT4
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200101
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097028
 #EXTINF: -1 tvg-logo="https://i.imgur.com/urnQwT5.jpg" group-title="SPORTS", Euro Sport 1
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200102
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097030
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Agql3iY.jpg" group-title="SPORTS", PTV Sports
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200103
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097033
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kZHFpNS.jpg" group-title="SPORTS", Sky Sports
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200104
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097035
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kZHFpNS.jpg" group-title="SPORTS", Skynet Sports 1
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200105
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097038
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cMvStlH.png" group-title="MUSIC CHANNELS", Hungama
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200106
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097041
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JMJ4AgN.jpg" group-title="MUSIC CHANNELS", Zee5
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200107
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097043
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JMJ4AgN.jpg" group-title="MUSIC CHANNELS", Zing
-https://m3u-editor.com/serve/46b6f4a0-10ce-11ec-952c-8398b40a76a1/375200108
+https://m3u-editor.com/serve/3165dc60-14b5-11ec-8acb-ef16fd70ebd2/379097045
