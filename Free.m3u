@@ -1,107 +1,297 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hI7Advx.jpg" group-title="CONTRACT", ## 01912410410 ##
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769302
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215019
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1XbycYg.jpg" group-title="BANGLA", RTV
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769303
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215020
 #EXTINF: -1 tvg-logo="https://i.imgur.com/1GwELpO.jpg" group-title="BANGLA", Masranga Tv
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769304
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215021
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e344Py8.png" group-title="BANGLA", MY TV
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769305
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215022
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9grJznW.jpg" group-title="BANGLA", Ananda TV
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769306
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215023
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oiQgaRh.jpg" group-title="BANGLA", BIJOY TV
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769307
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215024
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cZVRoNH.jpg" group-title="BANGLA", Bangla TV
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769308
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215025
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bViZj7v.jpg" group-title="BANGLA", BOISHAKHI TV PLUS
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769309
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215026
 #EXTINF: -1 tvg-logo="https://i.imgur.com/TQWE6Nx.jpg" group-title="BANGLA", Khusboo HD
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769310
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215027
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xnYijYq.jpg" group-title="BANGLA", BTV WORLD
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769311
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215028
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lI2lBEl.jpg" group-title="BANGLA", BTV
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769312
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215029
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JKQjGJk.jpg" group-title="BANGLA", Sangsad
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769313
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215030
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rAomdug.png" group-title="INDIAN BANGLA", Orange Bangla
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769314
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215031
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FwqXQOn.jpg" group-title="INDIAN BANGLA", R Plus Gold
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769315
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215032
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BKZy8ye.jpg" group-title="HINDI ENTERTAINMENT", Star Plus
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769316
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215033
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yijvpU3.jpg" group-title="HINDI MOVIES", Rishtey Cineplex
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769317
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215034
 #EXTINF: -1 tvg-logo="https://i.imgur.com/aju4mRV.jpg" group-title="HINDI MOVIES", BFlix Movies
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769318
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215035
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5eJJpFw.png" group-title="HINDI MOVIES", MAHA MOVIE
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769319
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215036
 #EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg" group-title="HINDI MOVIES", WoW CINEMA
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769320
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215037
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kBOiQBW.jpg" group-title="HINDI MOVIES", BOX CINEMA
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769321
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215038
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CthMRSv.jpg" group-title="ENGLISH MOVIES", 24/7-MOVIES
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769322
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215039
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fUlJsrN.jpg" group-title="ENGLISH MOVIES", Star Movies Select
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769323
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215040
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UZ7SQPL.jpg" group-title="ENGLISH MOVIES", HBO
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769324
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215041
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GGwd9d5.jpg" group-title="ENGLISH MOVIES", My Cinema Europe
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769325
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215042
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CthMRSv.jpg" group-title="ENGLISH MOVIES", NETMAX TV
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769326
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215043
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vjij72B.jpg" group-title="INFOTAINMENT & LIFESTYLE", National Geographic
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769327
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215044
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hGF2kL5.png" group-title="INFOTAINMENT & LIFESTYLE", BBC EARTH
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769328
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215045
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ij7U2FZ.jpg" group-title="INFOTAINMENT & LIFESTYLE", Love Nature
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769329
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215046
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yrCVG7G.png" group-title="KIDS-CARTOONS", Wow Kids
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769330
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215047
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7HqjJkf.png" group-title="KIDS-CARTOONS", Nick Jr
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769331
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215048
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tEL0CyS.jpg" group-title="KIDS-CARTOONS", Tom & Jerry
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769332
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215049
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vB3tuL1.jpg" group-title="SPORTS", IPL 2021 FTP- ALL MOBILE DATA
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769333
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215050
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vB3tuL1.jpg" group-title="SPORTS", IPL 2021 SD
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769334
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215051
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vB3tuL1.jpg" group-title="SPORTS", IPL 2021 HD
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769335
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215052
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vB3tuL1.jpg" group-title="SPORTS", IPL 2021 FHD
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769336
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215053
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vB3tuL1.jpg" group-title="SPORTS", IPL 2021 FTP-HD 1
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769337
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215054
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vB3tuL1.jpg" group-title="SPORTS", IPL 2021 FTP-HD 2
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769338
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215055
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PeOx9c3.jpg" group-title="SPORTS", Sony SIX
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769339
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215056
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PeOx9c3.jpg" group-title="SPORTS", Sony Ten 3
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769340
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215057
 #EXTINF: -1 tvg-logo="https://i.imgur.com/15wWQoe.jpg" group-title="SPORTS", Star Sports 2
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769341
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215058
 #EXTINF: -1 tvg-logo="https://i.imgur.com/15wWQoe.jpg" group-title="SPORTS", Star Sports 3
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769342
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215059
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PeOx9c3.jpg" group-title="SPORTS", MAT4
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769343
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215060
 #EXTINF: -1 tvg-logo="https://i.imgur.com/urnQwT5.jpg" group-title="SPORTS", Euro Sport 1
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769344
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215061
 #EXTINF: -1 tvg-logo="https://i.imgur.com/cMvStlH.png" group-title="MUSIC CHANNELS", Hungama
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769345
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215062
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", DILLAGIII
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769346
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215063
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", 9X JALWA
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769347
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215064
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", 9X Jhakaas
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769348
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215065
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", 9X TASHAN Test
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769349
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215066
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", 9XM
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769350
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215067
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", B4U Plus
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769351
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215068
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", Mtunes+
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769352
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215069
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", MK TUNES
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769353
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215070
 #EXTINF: -1 tvg-logo="https://i.imgur.com/exSZhdF.jpg" group-title="MUSIC CHANNELS", MUSIC ZONE
-https://m3u-editor.com/serve/9e7c37d0-2f47-11ec-bf9b-090dd3a8231c/403769354
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215071
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony aath
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215072
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Bangla
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215073
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Colors Bengali HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215074
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Aakash Aath
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215075
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Bangla Cinema
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215076
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sangeet Bangla
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215077
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215078
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony SD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215079
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony SAB HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215080
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony SAB
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215081
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", And TV HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215082
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee TV HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215083
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Colors HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215084
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Wah
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215085
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Enterr 10
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215086
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Max HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215087
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Cinema
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215088
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Cinema HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215089
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", And Pictures HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215090
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Action
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215091
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Colors Cineplex HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215092
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Anmol
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215093
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Rishtey
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215094
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Colors Cineplex
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215095
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Pal
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215096
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Housefull Movies
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215097
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Bollywood
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215098
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", B4U Movies
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215099
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony MAX2
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215100
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee Anmol Cinema
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215101
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Box Cinema
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215102
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Maha Movies
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215103
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Bflix Movies
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215104
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Manoranjan TV
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215105
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", B4U Kadak
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215106
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Rishtey Cineplex
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215107
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Discovery Channel Bengali
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215108
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Discovery Channel Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215109
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", History TV18 HD Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215110
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", TLC Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215111
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Discovery HD World
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215112
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Discovery
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215113
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Animal Planet HD World
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215114
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Animal Planet Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215115
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Animal Planet English
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215116
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Discovery Science
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215117
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", History TV18 HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215118
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony BBC Earth HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215119
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", TLC HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215120
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", TLC English
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215121
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Discovery Turbo
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215122
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Investigation Discovery
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215123
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Travel XP HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215124
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Travel XP HD Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215125
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Food Food
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215126
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony BBC Earth HD English
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215127
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sonic Bangla
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215128
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sonic Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215129
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Nick Bangla
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215130
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Nickelodeon
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215131
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Nick Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215132
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Nick Junior
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215133
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Nickelodeon Jr.
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215134
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Cartoon Network Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215135
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Pogo Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215136
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Yay Hindi
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215137
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Colors Infinity HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215138
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Pix HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215139
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", HBO HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215140
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", WB
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215141
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Hi Dost!
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215142
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Pix SD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215143
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Colors Infinity SD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215144
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Comedy Central SD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215145
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", DD Sports
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215146
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Ten 1 HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215147
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Ten 1
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215148
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Ten 2 HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215149
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Ten 2
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215150
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Ten 3 HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215151
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Ten 3
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215152
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Ten 4 HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215153
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Six HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215154
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Sony Six SD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215155
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Eurosport
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215156
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Eurosport HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215157
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", MTV
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215158
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", 9XM
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215159
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", MTV Beats HD
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215160
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", B4U Music
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215161
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zee etc
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215162
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Mastiii
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215163
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Zing
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215164
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", Music India
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215165
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="FTP-ASFAIPTV-VIP-Perfect Player/PC", 9X Jalwa
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215166
